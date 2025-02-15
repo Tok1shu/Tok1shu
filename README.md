@@ -1,4 +1,4 @@
-<h2 align="left">TOKISHU :3</h2>
+<h2 align="left">TOKISHU :3 <p align="right">about my code</p></h2>
 
 ###
 
@@ -8,7 +8,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.ibb.co/TDS8xvRS/tttta.png"  />
+<img align="right" height="150" src="https://github.com/user-attachments/assets/9cf84e02-0d0e-4f75-be6e-d5b3c1564d53" alt="About my code" />
 
 ###
 
@@ -62,8 +62,5 @@
   </a>
 </div>
 
-<p align="left">Welcome to my portfolio! My name is Yaroslav, I'm from Ukraine, and I'm 17 years old. I have a broad tech stack, as listed above. In addition, I have experience with Artificial Intelligence and Prompt Engineering.<br><br>My experience includes small projects like Minecraft plugins or simple backend scripts in Python. However, I have also worked on larger projects, such as a prototype of a Perplexity-like system designed to handle high API loads (caching, full async processing, etc.).<br><br>
-<h3>Projects I plan to work on in the near future:</h3>❌ - Completing an unfinished bot with subdomain redirects. | **Progress: 95%**  <br>❌ - A simple anti-cheat for Minecraft | **Progress: 0%**  <br>❌ - CreativeGuard plugin for Minecraft | **Progress: ???**  <br>   (Not sure if full functionality is feasible)  <br>❌ - Meowvolution plugin for Minecraft (New AI for cats) | **Progress: 0%**  <br>❌ - Fine-tuning an AI model for more flexible responses (or using LoRA) | **Progress: 0%**  <br><br><i></h>I don't guarantee the completion of these projects, as I primarily work on commission-based tasks.</i></p>
+<p align="left">Welcome to my portfolio! My name is Yaroslav, I'm from Ukraine, and I'm 17 years old. I have a broad tech stack, as listed above. In addition, I have experience with Artificial Intelligence and Prompt Engineering.<br><br>My experience includes small projects like Minecraft plugins or simple backend scripts in Python. However, I have also worked on larger projects, such as a prototype of a Perplexity-like system designed to handle high API loads (caching, full async processing, etc.).
 
-
-###
