@@ -17,11 +17,11 @@
 ###
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=fastapi" height="30" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
   <img width="12" />
@@ -41,13 +41,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=lua" height="30" alt="lua logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
 </div>
 
 <div align="center">
