@@ -53,9 +53,6 @@
   <a href="https://t.me/tokishu" target="_blank">
     <img src="https://img.shields.io/static/v1?message=@Tokishu&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
-  <a href="https://www.paypal.com/donate/?hosted_button_id=4HLK2VRT6PF8A" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Donate&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="paypal logo"  />
-  </a>
 </div>
 
 <p align="left">Welcome to my portfolio! My name is Yaroslav, I'm from Ukraine, and I'm 17 years old. I have a broad tech stack, as listed above. In addition, I have experience with Artificial Intelligence and Prompt Engineering.<br><br>My experience includes small projects like Minecraft plugins or simple backend scripts in Python. However, I have also worked on larger projects, such as a prototype of a Perplexity-like system designed to handle high API loads (caching, full async processing, etc.).
