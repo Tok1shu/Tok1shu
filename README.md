@@ -12,38 +12,20 @@
 
 ###
 
-<h3 align="center">My tech stack, from strongest to weakest</h3>
+<h3 align="center">My tech stack</h3>
 
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="30" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="42" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="42" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="42" alt="fastapi logo"  />
+  <img src="https://skillicons.dev/icons?i=php" height="42" alt="php logo"  />
+  <img src="https://skillicons.dev/icons?i=linux" height="42" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="42" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=postman" height="42" alt="postman logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="42" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=postgres" height="42" alt="postgresql logo"  />
 </div>
 
 <div align="center">
