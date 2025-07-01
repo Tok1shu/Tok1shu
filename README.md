@@ -22,7 +22,6 @@
   <img src="https://skillicons.dev/icons?i=fastapi" height="42" alt="fastapi logo"  />
   <img src="https://skillicons.dev/icons?i=php" height="42" alt="php logo"  />
   <img src="https://skillicons.dev/icons?i=linux" height="42" alt="linux logo"  />
-  <img src="https://skillicons.dev/icons?i=js" height="42" alt="javascript logo"  />
   <img src="https://skillicons.dev/icons?i=postman" height="42" alt="postman logo"  />
   <img src="https://skillicons.dev/icons?i=mysql" height="42" alt="mysql logo"  />
   <img src="https://skillicons.dev/icons?i=postgres" height="42" alt="postgresql logo"  />
